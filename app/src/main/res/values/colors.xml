@@ -15,8 +15,9 @@
      limitations under the License.
 -->
 <resources>
-    <color name="colorPrimary">#03A9F4</color>
-    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorPrimary">#7A1EA1</color>
+    <color name="colorPrimaryMid">#9B26AF</color>
+    <color name="colorPrimaryDark">#691A99</color>
     <color name="colorAccent">#FFD740</color>
     <color name="colorPrimaryLight">#B3E5FC</color>
 
@@ -26,8 +27,8 @@
     <color name="secondary_text">#727272</color>
 
      <!--our detail accent colors -->
-    <color name="detail_accent_pane_background">#455A64</color>
-    <color name="detail_accent_label">#90A4AE</color>
+    <color name="detail_accent_pane_background">#68EFAD</color>
+    <color name="detail_accent_label">#212121</color>
 
     <!-- the activated state color for a forecast list item -->
     <color name="activated">#E0E0E0</color>
