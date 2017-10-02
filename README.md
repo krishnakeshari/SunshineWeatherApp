@@ -1,5 +1,5 @@
 # SunshineWeatherApp
-===================================
+
 This app displays the weather of the selected location(Not Real).
 Used in a Udacity course in the Android Basics Nanodegree by Google.
 
